@@ -1,0 +1,46 @@
+*.xml
+.deployables
+.git
+target/
+*.class
+logs/*
+
+# Eclipse settings
+.classpath
+.project
+.settings
+
+# Maven/Gradle build artifacts
+/target/
+/build/
+
+# IntelliJ IDEA settings
+*.iml
+.idea
+
+# Logs
+*.logs
+
+# 기타 IDE 또는 개인 설정 파일들
+.DS_Store
+*.swp
+*.jar
+*.springBeans
+*.lock
+*.log
+*.ini
+*.zip
+*.location
+*.tree
+*.version
+*.index
+*.resources
+*.xmi
+*.txt
+*.dat
+*.properties
+*.state
+*.woff
+.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache
+.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache
+.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
